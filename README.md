@@ -1,0 +1,1 @@
+# freebsd-live-common-settings
